@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{4593CA59-B66B-42E8-BEB1-987C487A6C63}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment/Payment.aspx">
+    <Files>
+      <File FileName="Assignment/Checkout.aspx.cs" Line="45" Column="14" />
+      <File FileName="Assignment/Checkout.aspx" Line="30" Column="1" />
+      <File FileName="Assignment/Checkout.aspx.designer.cs" />
+      <File FileName="Assignment/packages.config" />
+      <File FileName="Assignment/Payment.aspx" Line="41" Column="1" />
+      <File FileName="Assignment/Payment.aspx.cs" Line="36" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment" expanded="True">
+            <Node name="Assignment" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Checkout.aspx" expanded="True" />
+              <Node name="Payment.aspx" expanded="True" selected="True" />
+              <Node name="Web.config" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assignment PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

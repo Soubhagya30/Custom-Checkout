@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{4593CA59-B66B-42E8-BEB1-987C487A6C63}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Web.config">
+    <Files>
+      <File FileName="Checkout.aspx" Line="1" Column="1" />
+      <File FileName="Checkout.aspx.cs" />
+      <File FileName="Web.config" Line="1" Column="1" />
+      <File FileName="packages.config" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment" expanded="True">
+            <Node name="Assignment" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Checkout.aspx" expanded="True" />
+              <Node name="Web.config" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assignment PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
